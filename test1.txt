@@ -4,3 +4,4 @@ mnbvcxz
 lkjhgfdsa
 new branch
 git fetch
+git checkout
