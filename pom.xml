@@ -1,15 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<library>
-     <book>
-          <title>The Fire Next Time</title>
-          <author>Baldwin, James</author>
-     </book>
-     <book>
-          <title>Beloved</title>
-          <author>Morris, Toni</author>
-     </book>
-     <book>
-          <title>The Messiah of Stockholm</title>
-          <author>Ozick, Cynthia</author>
-     </book>
-</library>
+<project xmlns = "http://maven.apache.org/POM/4.0.0"
+   xmlns:xsi = "http://www.w3.org/2001/XMLSchema-instance"
+   xsi:schemaLocation = "http://maven.apache.org/POM/4.0.0
+   http://maven.apache.org/xsd/maven-4.0.0.xsd">
+   <modelVersion>4.0.0</modelVersion>
+
+   <groupId>com.companyname.project-group</groupId>
+   <artifactId>project</artifactId>
+   <version>1.0</version>
+</project>
